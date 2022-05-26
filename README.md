@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?height=400&text=HyunWoo%20Jin) 
  
  #### Hi, i'm HyunWoo Jin 👋   
- #### a junior front-end developer 🐣!
+ #### A junior front-end developer 🐣!
  
 <!-- view -->
  
