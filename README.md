@@ -1,6 +1,6 @@
 <div align="center">
  
-![header](https://capsule-render.vercel.app/api?height=400&text=HyunWoo%20Jin&desc=a%20junior%20front-end%20developer) 
+![header](https://capsule-render.vercel.app/api?height=400&text=HyunWoo%20Jin) 
  
  #### Hi, i'm HyunWoo Jin 👋   
  #### a junior front-end developer 🐣!
