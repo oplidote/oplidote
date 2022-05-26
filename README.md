@@ -2,6 +2,8 @@
  
 ![header](https://capsule-render.vercel.app/api?height=400&text=HyunWoo%20Jin&desc=a%20junior%20front-end%20developer) 
  
+ ### 👋 Hi, i'm HyunWoo Jin, a junior front-end developer 🐣!
+ 
 <!-- view -->
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgoplidote%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23000000&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
