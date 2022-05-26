@@ -1,2 +1,2 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oplidote)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+<!-- stat theme -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oplidote&show_icons=true&theme=dark)
